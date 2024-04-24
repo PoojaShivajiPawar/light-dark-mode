@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Times New Roman', Times, serif,
+    monospace;
+}
+
+p, h2{
+  font-family: 'Times New Roman', Times, serif;
+  margin: 10px;
+  
+}
+
+
+.form-check{
+  margin: 30px;
+  font-family: 'Times New Roman', Times, serif;}
+
